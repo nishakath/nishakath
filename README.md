@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Nisha K
-- 👀 I’m interested in ...Computer architecture,machine learning,deep learning, ASIC Design and digital hardware design
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Nisha Kumar
+- 👀 I’m interested in ...Computer architecture, ASIC Design and digital hardware design.
 - 📫 How to reach me ...
 
 <!---
